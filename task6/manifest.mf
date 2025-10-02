@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Created-By: <Скиба Владимир>
 Main-Class: MyFirstClass
+=======
+Manifest-Version: 1.0
+Created-By: <Скиба Владимир>
+Main-Class: MyFirstClass
+>>>>>>> e8a1752d9f8a817a3b68f303af8acd3cdcf783f0
