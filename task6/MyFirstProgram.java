@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import myfirstpackage.*;
 
 class MyFirstClass {
@@ -15,7 +14,7 @@ class MyFirstClass {
             System.out.println();
         }
     }
-=======
+
 import myfirstpackage.*;
 
 class MyFirstClass {
@@ -32,5 +31,4 @@ class MyFirstClass {
             System.out.println();
         }
     }
->>>>>>> e8a1752d9f8a817a3b68f303af8acd3cdcf783f0
 }
